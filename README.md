@@ -1,6 +1,6 @@
-<img src='ilustration1'/>
-<img src='ilustration2'/>
-<img src='ilustration3'/>
+<img src='./src/prints/ilustration1.png'/>
+<img src='./src/prints/ilustration2.png'/>
+<img src='./src/prints/ilustration3.png'/>
 
 # React Team Maker
 
